@@ -1,4 +1,4 @@
-HW01 – Gemini Model Comparison
+HW1 – Gemini Model Comparison
 
 
 
